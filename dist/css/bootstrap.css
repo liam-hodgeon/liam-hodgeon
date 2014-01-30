@@ -782,8 +782,8 @@ pre code {
 }
 
 .container {
-  padding-right: 15px;
-  padding-left: 15px;
+  padding-right: 0px;
+  padding-left: 0px;
   margin-right: auto;
   margin-left: auto;
 }
@@ -5224,7 +5224,6 @@ a.list-group-item.active > .badge,
   text-align: center;
   padding: 30px;
   margin-bottom: 30px;
-  margin:0 -40px;
   font-size: 21px;
   font-weight: 200;
   line-height: 2.1428571435;
