@@ -5221,6 +5221,7 @@ a.list-group-item.active > .badge,
 }
 
 .jumbotron {
+  text-align: center;
   padding: 30px;
   margin-bottom: 30px;
   font-size: 21px;
