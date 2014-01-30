@@ -810,19 +810,19 @@ pre code {
 
 @media (min-width: 768px) {
   .container {
-    width: 750px;
+    width: 100%;
   }
 }
 
 @media (min-width: 992px) {
   .container {
-    width: 970px;
+    width: 100%;
   }
 }
 
 @media (min-width: 1200px) {
   .container {
-    width: 1170px;
+    width: 100%;
   }
 }
 
@@ -5224,6 +5224,7 @@ a.list-group-item.active > .badge,
   text-align: center;
   padding: 30px;
   margin-bottom: 30px;
+  margin:0 -40px;
   font-size: 21px;
   font-weight: 200;
   line-height: 2.1428571435;
