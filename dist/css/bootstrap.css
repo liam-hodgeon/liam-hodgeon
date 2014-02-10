@@ -5223,7 +5223,7 @@ a.list-group-item.active > .badge,
 .jumbotron {
   text-align: center;
   padding: 30px;
-  padding-top:35%;
+  padding-top:18%;
   margin-bottom: 0px;
   font-size: 21px;
   font-weight: 200;
@@ -5252,8 +5252,8 @@ a.list-group-item.active > .badge,
 
 @media screen and (min-width: 768px) {
   .jumbotron {
-    padding-top: 35%;
-    padding-bottom: 48px;
+    padding-top: 18%;
+    padding-bottom: 0px;
   }
   .container .jumbotron {
     padding-right: 60px;
