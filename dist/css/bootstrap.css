@@ -500,7 +500,7 @@ p {
 
 .lead {
   margin-bottom: 20px;
-  font-size: 16px;
+  font-size: 18px;
   font-weight: 200;
   line-height: 1.4;
 }
@@ -5225,7 +5225,7 @@ a.list-group-item.active > .badge,
   padding: 30px;
   padding-top:18%;
   margin-bottom: 0px;
-  font-size: 21px;
+  font-size: 32px;
   font-weight: 200;
   line-height: 2.1428571435;
   color: inherit;
